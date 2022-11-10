@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #github-action genshdoc
-#
+#github-action Super-Linter
 # @file Startup
 # @brief This script will ask users about their prefrences like disk, file system, timezone, keyboard layout, user name, password, etc.
 # @stdout Output routed to startup.log
