@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REFERENCE-startup.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REFERENCE-startup.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REFERENCE-startup.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REFERENCE-startup.md"
+                "file": "README.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "b81f84c3ab9ad1f6",
   "lastOpenFiles": [
-    "README.md",
     "REFERENCE-startup.md",
+    "README.md",
     "REFERENCE-1-setup.md",
     "REFERENCE-2-user.md",
     "REFERENCE-3-post-setup.md",
