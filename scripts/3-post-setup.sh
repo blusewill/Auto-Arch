@@ -15,7 +15,8 @@ echo -ne "
 -------------------------------------------------------------------
                     Automated Arch Linux Installer
                         SCRIPTHOME: Auto-Arch
--------------------------------------------------------------------Final Setup and Configurations
+-------------------------------------------------------------------
+Final Setup and Configurations
 GRUB EFI Bootloader Install & Check
 "
 source ${HOME}/ArchTitus/configs/setup.conf
