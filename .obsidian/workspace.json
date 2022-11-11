@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1996cb61b18c6350",
+        "id": "681313224d81972a",
         "type": "tabs",
         "children": [
           {
-            "id": "b81f84c3ab9ad1f6",
+            "id": "c6ed93e5aed93456",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,10 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b81f84c3ab9ad1f6",
+  "active": "c6ed93e5aed93456",
   "lastOpenFiles": [
-    "REFERENCE-startup.md",
     "README.md",
+    "REFERENCE-startup.md",
     "REFERENCE-1-setup.md",
     "REFERENCE-2-user.md",
     "REFERENCE-3-post-setup.md",

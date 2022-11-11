@@ -1,6 +1,5 @@
 #!/bin/bash
 #github-action genshdoc
-#github-action Super-Linter
 #
 # @file install
 # @brief Entrance script that launches children scripts for each phase of installation.

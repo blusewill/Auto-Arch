@@ -9,7 +9,6 @@
 # █▄▄█ █▄▄█▄▄▄▄▄▄▄█ █▄▄▄█ █▄▄▄▄▄▄▄█▄▄█ █▄▄█▄▄▄█  █▄█▄▄▄▄▄▄▄█▄▄█ █▄▄█
 #-------------------------------------------------------------------------
 #github-action genshdoc
-#github-action Super-Linter
 #
 # @file Preinstall
 # @brief Contains the steps necessary to configure and pacstrap the install to selected drive. 

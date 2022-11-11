@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 #github-action genshdoc
-#github-action Super-Linter
 #
 # @file User
 # @brief User customizations and AUR package installation.
