@@ -18,7 +18,6 @@ kdeplasma-addons
 kgamma5
 kgpg
 kinfocenter
-konsole
 kscreen
 kvantum-qt5
 kwalletmanager

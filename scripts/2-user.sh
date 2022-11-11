@@ -13,8 +13,8 @@ echo -ne "
 █   ▄   █       █ █   █ █       █   ▄   █   █  █ █    █▄▄█  █ █  █
 █▄▄█ █▄▄█▄▄▄▄▄▄▄█ █▄▄▄█ █▄▄▄▄▄▄▄█▄▄█ █▄▄█▄▄▄█  █▄█▄▄▄▄▄▄▄█▄▄█ █▄▄█
 -------------------------------------------------------------------
-                    Automated Arch Linux Installer
-                        SCRIPTHOME: Auto-Arch
+                   Automated Arch Linux Installer
+                       SCRIPTHOME: Auto-Arch
 -------------------------------------------------------------------
 Installing AUR Softwares
 "
